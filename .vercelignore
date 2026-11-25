@@ -1,0 +1,7 @@
+# No se despliegan: documentos internos y scripts de ayuda
+PROPUESTA_COMERCIAL.md
+README.md
+check_syntax.py
+fix_syntax_and_test.py
+# Copia de respaldo de imágenes (el sitio usa src/assets/images)
+assets/images

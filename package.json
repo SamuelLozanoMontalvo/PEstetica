@@ -1,0 +1,14 @@
+{
+  "name": "savama-spa-web",
+  "version": "1.0.0",
+  "description": "Sitio web oficial de Savamá Spa & Studio (Cartagena de Indias): catálogo de tratamientos y cotizador directo a WhatsApp.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "npx --yes serve . -l 8000",
+    "dev": "npx --yes serve . -l 8000"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

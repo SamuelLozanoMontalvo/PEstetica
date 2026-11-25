@@ -14,8 +14,8 @@ Sitio web oficial, catálogo interactivo de tratamientos y sistema de cotizacion
 prue/
 ├── index.html                   # HTML con metadatos SEO y tipografías para Savamá Spa
 ├── assets/
-│   ├── index-BhdQKgPH.css       # Estilos compilados con Tailwind CSS (paleta nude, arena y café)
-│   ├── index-5_KYy88D.js        # Lógica React: cotizador interactivo, tabs y enlaces WhatsApp
+│   ├── index-yfjBvzvH.css       # Estilos compilados con Tailwind CSS (paleta nude, arena y café)
+│   ├── index-hmxASfYd.js        # Lógica React: cotizador interactivo, tabs y enlaces WhatsApp
 │   └── images/                  # Copia de seguridad de todas las imágenes
 ├── src/assets/images/           # Galería de imágenes de alta resolución
 ├── PROPUESTA_COMERCIAL.md       # Documento de venta y pitch listo para presentar a los dueños
